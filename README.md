@@ -14,8 +14,6 @@ This sample demonstrates how a small amount of Ruby can provide request
 coercion, model validation, structured errors, response schemas, OpenAPI 3.1,
 Swagger UI, ReDoc, health checks, Docker Compose, and end-to-end smoke tests.
 
-![RubstAPI sample landing page](docs/images/home.png)
-
 ## What this repository demonstrates
 
 - Typed path and query parameters
